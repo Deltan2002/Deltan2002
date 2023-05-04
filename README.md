@@ -12,7 +12,7 @@ In my free time, I play piano, guitar and violin and pursue reading as my hobbie
   
 ## 💻 Technologies I've worked with
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,py,react,nodejs,mongodb,mysql,r,docker,figma,vim,spacy,tensorflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,java,c,py,react,nodejs,mongodb,bootstrap,tailwind,threejs,mysql,r,docker,solidity,sass,figma,firebase,vim,huggingface,tensorflow&theme=light)](https://skillicons.dev)
 
 
 ## 📫 How to reach me
