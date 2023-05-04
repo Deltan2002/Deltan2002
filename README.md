@@ -5,13 +5,13 @@ I'm a developer and an Engineer by profession, currently studying. I have a pass
 I'm a web developer with a passion for building web applications that solve real-world problems. I'm particularly interested in the areas of natural language processing (NLP) and blockchain technology.
 In my free time, I play piano, guitar and violin and pursue reading as my hobbies.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Deltan2002&theme=shades-of-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Deltan2002&theme=dark)](https://git.io/streak-stats)
   
 ## 💻 Technologies I've worked with
 
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,java,c,py,react,nodejs,mongodb,bootstrap,tailwind,threejs,mysql,r,docker,solidity,sass,figma,firebase,vim,tensorflow&theme=light)](https://skillicons.dev)
 
-[![](https://github-readme-stats.vercel.app/api?username=Deltan2002)](https://github.com/Deltan2002/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?&show_icons=true&theme=dark&username=Deltan2002)](https://github.com/Deltan2002/github-readme-stats)
 
 ## 📫 How to reach me
 
