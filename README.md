@@ -5,6 +5,9 @@
 <div style="background-image: url('https://yourcamoimageurl.com'); background-size: cover;">
 
 I'm a developer and an Engineer by profession, currently studying. I have a passion for implementing my thoughts into code, and I'm constantly learning new things to expand my skill set.
+mortar_board I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).
+seedling  I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.
+writing_hand  In my free time, I play guitar, football and pursue writing as my hobbies.
 
 
 ## 📫 How to reach me
