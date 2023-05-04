@@ -1,6 +1,5 @@
 # Hi there, I'm Deltan Gleran Lobo 👋
 
-## 🧑 About Me
 
 I'm a developer and an Engineer by profession, currently studying. I have a passion for implementing my thoughts into code, and I'm constantly learning new things to expand my skill set.
 I'm a web developer with a passion for building web applications that solve real-world problems. I'm particularly interested in the areas of natural language processing (NLP) and blockchain technology.
