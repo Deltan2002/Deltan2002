@@ -1,6 +1,6 @@
 # Hi there, I'm Deltan Gleran Lobo 👋
 
-![Banner Image](https://yourimageurl.com)
+![](https://static.wixstatic.com/media/3eee0b_4c0b4d2c5e9d4c5f84473048443b358b~mv2.gif)
 
 <div style="background-image: url('https://yourcamoimageurl.com'); background-size: cover;">
 
