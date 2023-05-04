@@ -11,8 +11,8 @@ In my free time, I play piano, guitar and violin and pursue reading as my hobbie
 [![GitHub Streak](https://streak-stats.demolab.com?user=Deltan2002&theme=shades-of-purple)](https://git.io/streak-stats)
   
 ## 💻 Technologies I've worked with
-  
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,c,py,react,nodejs,mongodb,mysql,r,docker,figma,vim&theme=dark)](https://skills.thijs.gg)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,py,react,nodejs,mongodb,mysql,r,docker,figma,vim,spacy,tensorflow&theme=light)](https://skillicons.dev)
 
 
 ## 📫 How to reach me
