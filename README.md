@@ -12,6 +12,7 @@ In my free time, I play piano, guitar and violin and pursue reading as my hobbie
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,java,c,py,react,nodejs,mongodb,bootstrap,tailwind,threejs,mysql,r,docker,solidity,sass,figma,firebase,vim,tensorflow&theme=light)](https://skillicons.dev)
 
 [![](https://github-readme-stats.vercel.app/api?&show_icons=true&theme=dark&username=Deltan2002)](https://github.com/Deltan2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deltan2002&hide_progress=true)](https://github.com/Deltan2002/github-readme-stats)
 
 
 
