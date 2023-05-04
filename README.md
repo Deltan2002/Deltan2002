@@ -11,6 +11,8 @@ In my free time, I play piano, guitar and violin and pursue reading as my hobbie
 
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,java,c,py,react,nodejs,mongodb,bootstrap,tailwind,threejs,mysql,r,docker,solidity,sass,figma,firebase,vim,tensorflow&theme=light)](https://skillicons.dev)
 
+[![](https://github-readme-stats.vercel.app/api?username=Deltan2002)](https://github.com/Deltan2002/github-readme-stats)
+
 ## 📫 How to reach me
 
 <a href="https://www.linkedin.com/in/deltan-lobo2002/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
