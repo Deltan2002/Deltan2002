@@ -9,7 +9,7 @@ In my free time, I play piano, guitar and violin and pursue reading as my hobbie
   
 ## 💻 Technologies I've worked with
 
-[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,java,c,py,react,nodejs,mongodb,bootstrap,tailwind,threejs,mysql,r,docker,solidity,sass,figma,firebase,vim,tensorflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,java,c,py,react,nodejs,mongodb,bootstrap,tailwind,threejs,mysql,r,docker,solidity,sass,figma,firebase,azure,vim,tensorflow&theme=light)](https://skillicons.dev)
 
 [![](https://github-readme-stats.vercel.app/api?&show_icons=true&theme=dark&username=Deltan2002)](https://github.com/Deltan2002/github-readme-stats)
 
