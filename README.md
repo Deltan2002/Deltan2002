@@ -20,7 +20,7 @@ In my free time, I play piano, guitar and violin and pursue reading as my hobbie
 
 <a href="mailto:deltanlobo92@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/deltan-lobo2002/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://deltanlobo.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://deltanlobo.vercel.app"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 
 
